@@ -1,0 +1,8 @@
+<mvc:View
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"> 
+    
+    <Text text="Hello SAP UI5 again" />
+    <!-- Step 5  -->
+    <!-- Min 30:45 -->
+</mvc:View> 
